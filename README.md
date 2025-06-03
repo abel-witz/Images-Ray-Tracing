@@ -1,2 +1,2 @@
-# Ray-Tracing-Images
-I implemented a basic raytracer following "Ray Tracing in One Weekend" by Peter Shirley to generate images that simulate realistic lighting, shadows, and reflections. The images contained in this repository were generated using this implementation.
+# Images-Ray-Tracing
+J'ai implémenté un raytracer basique en suivant "Ray Tracing in One Weekend" de Peter Shirley afin de générer des images simulant un éclairage, des ombres et des réflexions réalistes. Les images contenues dans ce dépôt ont été générées à l'aide de cette implémentation.
