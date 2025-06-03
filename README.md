@@ -1,4 +1,4 @@
-# Images-Ray-Tracing
+# Images Ray Tracing
 
 [English](https://github.com/abel-witz/Images-Ray-Tracing/blob/main/readme-en.md)
 
